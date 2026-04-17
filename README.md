@@ -1,4 +1,4 @@
-Dear Cust,
+Hello,
 
 This email confirms that your PayPal payment has been successfully processed. Your billing is complete, and the invoice is attached for your records.
 
